@@ -1,17 +1,9 @@
 # Dense Mapping
 
-This repo is forked from (DenseSurfelMapping)[https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping], aiming to learn surfel and run it successfully.  
+his repo is forked from (DenseSurfelMapping)[https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping], aiming to learn surfel and run it successfully.  
 
 <p align="center">
 <img src="fig/example2.png" alt="mapping example" width = "465" height = "300">
-</p>
-
-The top row is the reconstruction using stereo cameras and the bottom row is the reconstruction using **only the left camera**. Details can be found in the paper.
-
-A video can be used to illustrate the performance of the system and how we apply it into an autonomous navigation:
-<p align="center">
-<a href="https://youtu.be/2gZNpFE_yI4" target="_blank"><img src="fig/cover.jpg" 
-alt="video" width="432" height="316" border="10" /></a>
 </p>
 
 # Software
