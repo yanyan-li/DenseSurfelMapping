@@ -1,6 +1,6 @@
 # Dense Mapping
 
-his repo is forked from (DenseSurfelMapping)[https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping], aiming to learn surfel and run it successfully.  
+his repo is forked from [DenseSurfelMapping](https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping), aiming to learn surfel and run it successfully.  
 
 <p align="center">
 <img src="fig/example2.png" alt="mapping example" width = "465" height = "300">
